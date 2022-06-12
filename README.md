@@ -1,6 +1,6 @@
 # pfc
  
-Sur mon ancien github qui a sauter :( 
+Sur mon ancien github qui a sauter 😢 (Je l'est plus)
 ---
 
 <img src="https://cdn.discordapp.com/attachments/284707525620662272/983008513183858718/unknown.png">
