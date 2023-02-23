@@ -1,8 +1,8 @@
 
 <div align="center">
-  <h3>NETFLIX PLAYER REMADE</h3>
+  <h3>Simple Portfolio</h3>
   <p>
-    <a href="https://zougataga.github.io/netflix-player-remade/">Demo</a> 
+    <a href="codepen.io/zougataga/pen/QWVEBgN/">Demo</a> 
   </p>
     <br>
 </div>
