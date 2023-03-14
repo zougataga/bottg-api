@@ -1,5 +1,6 @@
-#  ⚠ À BUT ÉDUCATIF ⚠ 
 <div align="center">
+#  ⚠ À BUT ÉDUCATIF ⚠ 
+
   <h3>DiscordQrGrab</h3>
   <p>
     <img src="./out/qrcode.png"/>
