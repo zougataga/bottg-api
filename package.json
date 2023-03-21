@@ -1,0 +1,27 @@
+{
+  "name": "discord-qrcode",
+  "version": "1.1.2",
+  "description": "A simple package to get the token of the person scanning your qrcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cipher",
+    "string",
+    "aes-256-cbc",
+    "key",
+    "iv"
+  ],
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "crypto": "^1.0.1",
+    "eventemitter3": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "qr-code-styling-node": "^1.5.0",
+    "string_decoder": "^1.3.0",
+    "ws": "^8.13.0"
+  },
+  "author": "zougataga",
+  "license": "ISC"
+}
